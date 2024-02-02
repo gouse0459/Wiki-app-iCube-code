@@ -1,0 +1,34 @@
+body{
+    
+    padding: 0;
+    width: 100%;
+    margin-left :400px ;
+}
+header{
+    background: crimson;
+    border-bottom: 1px solid gray;
+    padding: 10px;
+}
+nav {
+    padding: 10px;
+    border-bottom: 1px solid gray;
+}
+nav span {
+    margin-left: 10px;
+
+}
+nav span :first-child{
+    border-bottom : 2px solid black;
+}
+main section{
+    /* float: right; */
+    padding: 20px;
+}
+.img-container{
+    float: right;
+    margin: 5px;
+}
+.Content{
+    padding: 20px;
+}
+
